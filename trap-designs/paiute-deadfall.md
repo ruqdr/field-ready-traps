@@ -15,6 +15,10 @@ A simple and ancient trigger mechanism that uses a sensitive balance to release 
 4. Place the bait stick between the bottom of the deadfall and the vertical support, with the bait at the far end. This stick holds the entire mechanism in place.
 5. When an animal takes the bait, the bait stick dislodges, causing the trap to spring.
 
+### Wind-Resistant Modification
+
+To reduce accidental triggers from wind, carve a small, shallow notch (1-2mm deep) into the vertical support stick where the bait stick rests against it. This notch provides a slightly more secure pivot point for the bait stick, requiring a more direct and forceful nudge from an animal to release. The sensitivity is still high, but it is less affected by light breezes.
+
 ## Field Test Log
 - **Date:** [Leave blank]
 - **Location:** [Leave blank]
